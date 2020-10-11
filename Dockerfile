@@ -1,5 +1,5 @@
 FROM ubuntu:20.04
-LABEL maintainer="J Frandberg"
+LABEL maintainer="J  Frandberg"
 
 ENV pip_packages "ansible"
 
